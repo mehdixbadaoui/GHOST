@@ -20,12 +20,20 @@ public class possess : MonoBehaviour
     void Update()
     {
         objects = objects.OrderBy(o => (o.transform.position - player.transform.position).magnitude).ToList();
-        GameObject closest = objects[0];
-        closest.GetComponent<SpriteRenderer>().color = Color.red;
-
-        //foreach (GameObject obj in objects)
-        //{
-        //    obj.GetComponent<SpriteRenderer>().color = Color.red;
-        //}
+        //GameObject closest = objects[0];
+        //closest.GetComponent<SpriteRenderer>().color = Color.red;
+        float closest_dist = (objects[0].transform.position - player.transform.position).magnitude;
+        Debug.Log($"name :{objects[0]} dist: {closest_dist}");
+        foreach (GameObject obj in objects)
+        {
+            float dist = (obj.transform.position - player.transform.position).magnitude;
+            if (obj == objects[0] && dist < 2f)
+            {
+                obj.GetComponent<SpriteRenderer>().color = Color.red;
+                continue;
+            }
+            obj.GetComponent<SpriteRenderer>().color = Color.white;
+        }
     }
+
 }
