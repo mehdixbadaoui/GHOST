@@ -34,7 +34,9 @@ public class manager : MonoBehaviour
             float dist = (obj.transform.position - player.transform.position).magnitude;
             if (obj == possessed)
             {
-                obj.GetComponent<SpriteRenderer>().color = Color.blue;
+                Color trans = obj.GetComponent<SpriteRenderer>().color;
+                trans.a = 0.5f;
+                obj.GetComponent<SpriteRenderer>().color = trans;
 
             }
 
