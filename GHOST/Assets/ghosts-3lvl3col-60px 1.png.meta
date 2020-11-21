@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 0e7eaa4442487c64faba1680e04e4618
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3717805433771138421
+    second: ghosts-3lvl3col-60px 1_0
+  - first:
+      213: -4884687601067668416
+    second: ghosts-3lvl3col-60px 1_1
+  - first:
+      213: 2114490614505671488
+    second: ghosts-3lvl3col-60px 1_2
+  - first:
+      213: 1483108604322126148
+    second: ghosts-3lvl3col-60px 1_3
+  - first:
+      213: -8914318121057514706
+    second: ghosts-3lvl3col-60px 1_4
+  - first:
+      213: -5181855542225812685
+    second: ghosts-3lvl3col-60px 1_5
+  - first:
+      213: -1489440880497405254
+    second: ghosts-3lvl3col-60px 1_6
+  - first:
+      213: 1345565811712789519
+    second: ghosts-3lvl3col-60px 1_7
+  - first:
+      213: 1471840458964821977
+    second: ghosts-3lvl3col-60px 1_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghosts-3lvl3col-60px 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114.66667
+        width: 58
+        height: 57.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d12ff185c489330800000000000000
+      internalID: 3717805433771138421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghosts-3lvl3col-60px 1_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 114.66667
+        width: 58
+        height: 57.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c4b9bc18a163cb0800000000000000
+      internalID: -4884687601067668416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghosts-3lvl3col-60px 1_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 114.66667
+        width: 58
+        height: 57.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b0286c20e285d10800000000000000
+      internalID: 2114490614505671488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghosts-3lvl3col-60px 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57.666668
+        width: 58
+        height: 57.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44912f3fa6f059410800000000000000
+      internalID: 1483108604322126148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghosts-3lvl3col-60px 1_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 57.666668
+        width: 58
+        height: 57.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b0a8326eaf94480800000000000000
+      internalID: -8914318121057514706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghosts-3lvl3col-60px 1_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 57.666668
+        width: 58
+        height: 57.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333cd38c6d95618b0800000000000000
+      internalID: -5181855542225812685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghosts-3lvl3col-60px 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.66666794
+        width: 58
+        height: 57.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2d10c1961745be0800000000000000
+      internalID: -1489440880497405254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghosts-3lvl3col-60px 1_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0.66666794
+        width: 58
+        height: 57.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c0d050af86ca210800000000000000
+      internalID: 1345565811712789519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghosts-3lvl3col-60px 1_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0.66666794
+        width: 58
+        height: 57.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d765aa69170d6410800000000000000
+      internalID: 1471840458964821977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

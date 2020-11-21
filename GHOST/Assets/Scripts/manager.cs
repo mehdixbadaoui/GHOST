@@ -9,15 +9,14 @@ public class manager : MonoBehaviour
     GameObject player;
     public GameObject possessed;
 
-    bool is_possessing;
-
+    public float possess_dist;
+    private bool is_possessing;
     // Start is called before the first frame update
     void Start()
     {
         objects = new List<GameObject>(GameObject.FindGameObjectsWithTag("movable"));
         player = GameObject.FindGameObjectWithTag("player");
         possessed = null;
-        is_possessing = false;
 
     }
 
@@ -40,7 +39,7 @@ public class manager : MonoBehaviour
 
             }
 
-            else if (obj == objects[0] && dist < 2f)
+            else if (obj == objects[0] && dist < possess_dist && !is_possessing)
             {
                 obj.GetComponent<SpriteRenderer>().color = Color.red;
             }
@@ -61,7 +60,8 @@ public class manager : MonoBehaviour
                 possessed = null;
             }
 
-            else if (!possessed && d < 2f){
+            else if (!possessed && d < possess_dist)
+            {
 
                 //Debug.Log("can pos");
                 possessed = objects[0];
@@ -73,8 +73,17 @@ public class manager : MonoBehaviour
 
     private void possess(bool b)
     {
+        is_possessing = b;
         player.GetComponent<Movement>().enabled = !b;
         possessed.GetComponent<Movement>().enabled = b;
+        player.GetComponentInChildren<SpriteRenderer>().enabled = !b;
+
+        if (!b)
+        {
+            Vector3 new_player_pos = possessed.transform.position * .9f;
+            new_player_pos.z = -4.6f;
+            player.transform.position = new_player_pos;
+        }
         
     }
 
