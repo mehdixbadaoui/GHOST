@@ -1,0 +1,2264 @@
+fileFormatVersion: 2
+guid: f1218e4974315ee43b158fb5f223631f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1105194602933634663
+    second: town_buildings_0
+  - first:
+      213: -1242325133404160256
+    second: town_buildings_1
+  - first:
+      213: -6639161633977073919
+    second: town_buildings_2
+  - first:
+      213: -6366768951549701362
+    second: town_buildings_3
+  - first:
+      213: -727112843154897482
+    second: town_buildings_4
+  - first:
+      213: -4271408436423971351
+    second: town_buildings_5
+  - first:
+      213: 6756864336315868677
+    second: town_buildings_6
+  - first:
+      213: -3280910881227209273
+    second: town_buildings_7
+  - first:
+      213: -3122986896473749592
+    second: town_buildings_8
+  - first:
+      213: -4827293341559905425
+    second: town_buildings_9
+  - first:
+      213: 46922762632965075
+    second: town_buildings_10
+  - first:
+      213: 1428817651035258740
+    second: town_buildings_11
+  - first:
+      213: 1653453468718646118
+    second: town_buildings_12
+  - first:
+      213: 8785526957416961863
+    second: town_buildings_13
+  - first:
+      213: -4778074409611884954
+    second: town_buildings_14
+  - first:
+      213: 9073272755216851056
+    second: town_buildings_15
+  - first:
+      213: 5188391607160344746
+    second: town_buildings_16
+  - first:
+      213: -4694710825683800736
+    second: town_buildings_17
+  - first:
+      213: 898973002486631288
+    second: town_buildings_18
+  - first:
+      213: 5028065481265023800
+    second: town_buildings_19
+  - first:
+      213: -5967013922173159891
+    second: town_buildings_20
+  - first:
+      213: -7155345734442373860
+    second: town_buildings_21
+  - first:
+      213: 6357514100172220150
+    second: town_buildings_22
+  - first:
+      213: 4741024477538414738
+    second: town_buildings_23
+  - first:
+      213: 5372848759940674762
+    second: town_buildings_24
+  - first:
+      213: -5215731954542827241
+    second: town_buildings_25
+  - first:
+      213: 1220676050863849315
+    second: town_buildings_26
+  - first:
+      213: -774680308356773050
+    second: town_buildings_27
+  - first:
+      213: -780401893275448169
+    second: town_buildings_28
+  - first:
+      213: 774648172450401428
+    second: town_buildings_29
+  - first:
+      213: -2854007083099757568
+    second: town_buildings_30
+  - first:
+      213: -6118702641710253176
+    second: town_buildings_31
+  - first:
+      213: -537143084684132362
+    second: town_buildings_32
+  - first:
+      213: -4271766238669810046
+    second: town_buildings_33
+  - first:
+      213: -6144336595154918358
+    second: town_buildings_34
+  - first:
+      213: 8637175565995218905
+    second: town_buildings_35
+  - first:
+      213: -1184349059887527282
+    second: town_buildings_36
+  - first:
+      213: -7399996453529437016
+    second: town_buildings_37
+  - first:
+      213: -5253436240665143255
+    second: town_buildings_38
+  - first:
+      213: -5126041900019413975
+    second: town_buildings_39
+  - first:
+      213: 871544095551438622
+    second: town_buildings_40
+  - first:
+      213: 4829659234342902409
+    second: town_buildings_41
+  - first:
+      213: -1691014741582433931
+    second: town_buildings_42
+  - first:
+      213: -4885420494072357350
+    second: town_buildings_43
+  - first:
+      213: 6321742648383161108
+    second: town_buildings_44
+  - first:
+      213: -1206098730873002533
+    second: town_buildings_45
+  - first:
+      213: -3265823781710790799
+    second: town_buildings_46
+  - first:
+      213: -7272978847345519823
+    second: town_buildings_47
+  - first:
+      213: -4426887440931873568
+    second: town_buildings_48
+  - first:
+      213: -3231386088333707388
+    second: town_buildings_49
+  - first:
+      213: -1364644941306795737
+    second: town_buildings_50
+  - first:
+      213: -3390090502688602534
+    second: town_buildings_51
+  - first:
+      213: 1100191939089483753
+    second: town_buildings_52
+  - first:
+      213: 1098493244389628385
+    second: town_buildings_53
+  - first:
+      213: 7424289852795045270
+    second: town_buildings_54
+  - first:
+      213: 7079888350547491093
+    second: town_buildings_55
+  - first:
+      213: -4560499733549596520
+    second: town_buildings_56
+  - first:
+      213: 8474208759818180533
+    second: town_buildings_57
+  - first:
+      213: -3044766582364142360
+    second: town_buildings_58
+  - first:
+      213: 1861566588516147025
+    second: town_buildings_59
+  - first:
+      213: -3148321091068090871
+    second: town_buildings_60
+  - first:
+      213: 6146740982758950350
+    second: town_buildings_61
+  - first:
+      213: 3985994990909013
+    second: town_buildings_62
+  - first:
+      213: -6477521189294951814
+    second: town_buildings_63
+  - first:
+      213: -1869011691307328160
+    second: town_buildings_64
+  - first:
+      213: -2835165632053070529
+    second: town_buildings_65
+  - first:
+      213: 8687999559106928857
+    second: town_buildings_66
+  - first:
+      213: -7305785952743345641
+    second: town_buildings_67
+  - first:
+      213: -2313543633920491738
+    second: town_buildings_68
+  - first:
+      213: 6512747125719992484
+    second: town_buildings_69
+  - first:
+      213: -119456856596152976
+    second: town_buildings_70
+  - first:
+      213: -7954504316455968650
+    second: town_buildings_71
+  - first:
+      213: -8464321823310175822
+    second: town_buildings_72
+  - first:
+      213: -8746099463091708097
+    second: town_buildings_73
+  - first:
+      213: -7351977508240572588
+    second: town_buildings_74
+  - first:
+      213: 366341533817895141
+    second: town_buildings_75
+  - first:
+      213: -1335073859310919651
+    second: town_buildings_76
+  - first:
+      213: -4943262416343201496
+    second: town_buildings_77
+  - first:
+      213: 3075427692740215615
+    second: town_buildings_78
+  - first:
+      213: -3813039868173956021
+    second: town_buildings_79
+  - first:
+      213: 6297206377545261887
+    second: town_buildings_80
+  - first:
+      213: 8539773954500889090
+    second: town_buildings_81
+  - first:
+      213: 7959553478511933204
+    second: town_buildings_82
+  - first:
+      213: -6784097043081142782
+    second: town_buildings_83
+  - first:
+      213: -7159670031936721257
+    second: town_buildings_84
+  - first:
+      213: -4762625221861442845
+    second: town_buildings_85
+  - first:
+      213: 5304764872004623112
+    second: town_buildings_86
+  - first:
+      213: -2781310797495816700
+    second: town_buildings_87
+  - first:
+      213: 1758604702114097532
+    second: town_buildings_88
+  - first:
+      213: -8142635152662393109
+    second: town_buildings_89
+  - first:
+      213: 4252574231502116617
+    second: town_buildings_90
+  - first:
+      213: 6895844505828108820
+    second: town_buildings_91
+  - first:
+      213: 886225720708797663
+    second: town_buildings_92
+  - first:
+      213: 8350911298411727781
+    second: town_buildings_93
+  - first:
+      213: -4256491971625380930
+    second: town_buildings_94
+  - first:
+      213: -6805963905422987424
+    second: town_buildings_95
+  - first:
+      213: -6888789370689106538
+    second: town_buildings_96
+  - first:
+      213: -6784206143029250496
+    second: town_buildings_97
+  - first:
+      213: -5221250037702595764
+    second: town_buildings_98
+  - first:
+      213: 1001622379322362526
+    second: town_buildings_99
+  - first:
+      213: -1714686061546361748
+    second: town_buildings_100
+  - first:
+      213: -4918153849858181461
+    second: town_buildings_101
+  - first:
+      213: -1362754274997581076
+    second: town_buildings_102
+  - first:
+      213: 5444419463601546741
+    second: town_buildings_103
+  - first:
+      213: -7815379103828604058
+    second: town_buildings_104
+  - first:
+      213: 1088603708320120875
+    second: town_buildings_105
+  - first:
+      213: -255175111488955338
+    second: town_buildings_106
+  - first:
+      213: -7316975301909170016
+    second: town_buildings_107
+  - first:
+      213: 7181227311491434149
+    second: town_buildings_108
+  - first:
+      213: 1870700111980084726
+    second: town_buildings_109
+  - first:
+      213: -2187366809627292063
+    second: town_buildings_110
+  - first:
+      213: 4136944487861948904
+    second: town_buildings_111
+  - first:
+      213: 3569879823198089759
+    second: town_buildings_112
+  - first:
+      213: 7431534132938270979
+    second: town_buildings_113
+  - first:
+      213: -2236872612200548141
+    second: town_buildings_114
+  - first:
+      213: 2105630885048068823
+    second: town_buildings_115
+  - first:
+      213: 5243866833334783843
+    second: town_buildings_116
+  - first:
+      213: 8568438869863820507
+    second: town_buildings_117
+  - first:
+      213: -4222716702204471085
+    second: town_buildings_118
+  - first:
+      213: 3464083804164013216
+    second: town_buildings_119
+  - first:
+      213: 1123181867501756485
+    second: town_buildings_120
+  - first:
+      213: -3966089137575789725
+    second: town_buildings_121
+  - first:
+      213: 7132069018211669783
+    second: town_buildings_122
+  - first:
+      213: 4299534000999862700
+    second: town_buildings_123
+  - first:
+      213: 5696222510732584959
+    second: town_buildings_124
+  - first:
+      213: -5945144840614429271
+    second: town_buildings_125
+  - first:
+      213: -477950115445710449
+    second: town_buildings_126
+  - first:
+      213: 2183928898110845139
+    second: town_buildings_127
+  - first:
+      213: -1952321443699740322
+    second: town_buildings_128
+  - first:
+      213: 591789525675520578
+    second: town_buildings_129
+  - first:
+      213: -1065559086746427797
+    second: town_buildings_130
+  - first:
+      213: -8557113968729849496
+    second: town_buildings_131
+  - first:
+      213: 2951367111219932045
+    second: town_buildings_132
+  - first:
+      213: -5052974873422133707
+    second: town_buildings_133
+  - first:
+      213: 4648051164912891041
+    second: town_buildings_134
+  - first:
+      213: 2025773897631658542
+    second: town_buildings_135
+  - first:
+      213: 6251986090786163813
+    second: town_buildings_136
+  - first:
+      213: -8292132963252345923
+    second: town_buildings_137
+  - first:
+      213: 7067449962843940261
+    second: town_buildings_138
+  - first:
+      213: -2469703855014898623
+    second: town_buildings_139
+  - first:
+      213: 4337894424221628344
+    second: town_buildings_140
+  - first:
+      213: -5946611047760261377
+    second: town_buildings_141
+  - first:
+      213: 3641724099517488218
+    second: town_buildings_142
+  - first:
+      213: 2974172622386069828
+    second: town_buildings_143
+  - first:
+      213: -1216919534948022362
+    second: town_buildings_144
+  - first:
+      213: 5616790720188995369
+    second: town_buildings_145
+  - first:
+      213: 7775516667266280492
+    second: town_buildings_146
+  - first:
+      213: 7809558748535098213
+    second: town_buildings_147
+  - first:
+      213: 4279247717560813105
+    second: town_buildings_148
+  - first:
+      213: -3302895732530491791
+    second: town_buildings_149
+  - first:
+      213: -4374150635317777446
+    second: town_buildings_150
+  - first:
+      213: -6152232791280624833
+    second: town_buildings_151
+  - first:
+      213: -3183586095276135520
+    second: town_buildings_152
+  - first:
+      213: 1548434987680951882
+    second: town_buildings_153
+  - first:
+      213: -319543052600400541
+    second: town_buildings_154
+  - first:
+      213: -8489052301415686815
+    second: town_buildings_155
+  - first:
+      213: 5408068365911978347
+    second: town_buildings_156
+  - first:
+      213: 969477863148480453
+    second: town_buildings_157
+  - first:
+      213: 8316503342423048249
+    second: town_buildings_158
+  - first:
+      213: -8480972565151248117
+    second: town_buildings_159
+  - first:
+      213: -4482044466131175201
+    second: town_buildings_160
+  - first:
+      213: 6918275195748555994
+    second: town_buildings_161
+  - first:
+      213: 6402040996047876309
+    second: town_buildings_162
+  - first:
+      213: 557731871560477900
+    second: town_buildings_163
+  - first:
+      213: 3308227041031094062
+    second: town_buildings_164
+  - first:
+      213: 2345098379557220567
+    second: town_buildings_165
+  - first:
+      213: -1442375583206752761
+    second: town_buildings_166
+  - first:
+      213: 7595738213575320990
+    second: town_buildings_167
+  - first:
+      213: -8600312522672033493
+    second: town_buildings_168
+  - first:
+      213: -2505524183656378405
+    second: town_buildings_169
+  - first:
+      213: 5415905695300494154
+    second: town_buildings_170
+  - first:
+      213: -2054807931963940802
+    second: town_buildings_171
+  - first:
+      213: 6830265825145782912
+    second: town_buildings_172
+  - first:
+      213: 1230944997828382541
+    second: town_buildings_173
+  - first:
+      213: 4822063074688544084
+    second: town_buildings_174
+  - first:
+      213: 8257752933178405206
+    second: town_buildings_175
+  - first:
+      213: 5053889704305185799
+    second: town_buildings_176
+  - first:
+      213: 8484344323093858995
+    second: town_buildings_177
+  - first:
+      213: 3358667508718067460
+    second: town_buildings_178
+  - first:
+      213: -3307871094230016299
+    second: town_buildings_179
+  - first:
+      213: -826895077601381204
+    second: town_buildings_180
+  - first:
+      213: 1133543071043521919
+    second: town_buildings_181
+  - first:
+      213: 6448834798890960314
+    second: town_buildings_182
+  - first:
+      213: -4299857721389507801
+    second: town_buildings_183
+  - first:
+      213: 4228922217402233785
+    second: town_buildings_184
+  - first:
+      213: 2300935420462969651
+    second: town_buildings_185
+  - first:
+      213: -3077956070069204294
+    second: town_buildings_186
+  - first:
+      213: 847557096613588956
+    second: town_buildings_187
+  - first:
+      213: -5434155767568321102
+    second: town_buildings_188
+  - first:
+      213: -3266338673516452951
+    second: town_buildings_189
+  - first:
+      213: 6272624230194927697
+    second: town_buildings_190
+  - first:
+      213: 7646689346471565898
+    second: town_buildings_191
+  - first:
+      213: -1866877274773833264
+    second: town_buildings_192
+  - first:
+      213: 7072599746321901765
+    second: town_buildings_193
+  - first:
+      213: 1115492987792720302
+    second: town_buildings_194
+  - first:
+      213: -1382838537890577267
+    second: town_buildings_195
+  - first:
+      213: -8964414356433778946
+    second: town_buildings_196
+  - first:
+      213: -4632850079281191831
+    second: town_buildings_197
+  - first:
+      213: -5972137090628857244
+    second: town_buildings_198
+  - first:
+      213: -4320596319518585467
+    second: town_buildings_199
+  - first:
+      213: 4534515755379117323
+    second: town_buildings_200
+  - first:
+      213: 9078030850899981812
+    second: town_buildings_201
+  - first:
+      213: -4249583124554918814
+    second: town_buildings_202
+  - first:
+      213: -4851907019252710905
+    second: town_buildings_203
+  - first:
+      213: -7120084043043455104
+    second: town_buildings_204
+  - first:
+      213: -6297972660501617060
+    second: town_buildings_205
+  - first:
+      213: 2291379044489573891
+    second: town_buildings_206
+  - first:
+      213: 5015461808572980260
+    second: town_buildings_207
+  - first:
+      213: -4147802283529588483
+    second: town_buildings_208
+  - first:
+      213: -7918311172419113107
+    second: town_buildings_209
+  - first:
+      213: 2499134133505794239
+    second: town_buildings_210
+  - first:
+      213: 1719058086760404593
+    second: town_buildings_211
+  - first:
+      213: 781932338017677307
+    second: town_buildings_212
+  - first:
+      213: -4935862552293524507
+    second: town_buildings_213
+  - first:
+      213: 5649666994847389182
+    second: town_buildings_214
+  - first:
+      213: -5653113709801569114
+    second: town_buildings_215
+  - first:
+      213: 4137974175810535484
+    second: town_buildings_216
+  - first:
+      213: -5530249272876693082
+    second: town_buildings_217
+  - first:
+      213: -7287124617830586805
+    second: town_buildings_218
+  - first:
+      213: -3362385652373715116
+    second: town_buildings_219
+  - first:
+      213: -4406737980073159344
+    second: town_buildings_220
+  - first:
+      213: -6892976637533248754
+    second: town_buildings_221
+  - first:
+      213: 183982951861290143
+    second: town_buildings_222
+  - first:
+      213: 3287254044816927846
+    second: town_buildings_223
+  - first:
+      213: -8758848104406411313
+    second: town_buildings_224
+  - first:
+      213: -2075869492797743164
+    second: town_buildings_225
+  - first:
+      213: -6597700737818634161
+    second: town_buildings_226
+  - first:
+      213: -347631782394096465
+    second: town_buildings_227
+  - first:
+      213: 5138133072214099790
+    second: town_buildings_228
+  - first:
+      213: -8703499816619328459
+    second: town_buildings_229
+  - first:
+      213: 1459647895248015994
+    second: town_buildings_230
+  - first:
+      213: -6151726019875642390
+    second: town_buildings_231
+  - first:
+      213: -8892336362734692762
+    second: town_buildings_232
+  - first:
+      213: -7872339535542951492
+    second: town_buildings_233
+  - first:
+      213: 3318257472003417981
+    second: town_buildings_234
+  - first:
+      213: -1402628316716009443
+    second: town_buildings_235
+  - first:
+      213: -6674158168486602168
+    second: town_buildings_236
+  - first:
+      213: 3882199048981454557
+    second: town_buildings_237
+  - first:
+      213: -7638811055299493845
+    second: town_buildings_238
+  - first:
+      213: 1571767611309223589
+    second: town_buildings_239
+  - first:
+      213: -4115343713918721842
+    second: town_buildings_0
+  - first:
+      213: 49961803674536939
+    second: town_buildings_1
+  - first:
+      213: -2524663855420976023
+    second: town_buildings_2
+  - first:
+      213: 6662662143118966103
+    second: town_buildings_3
+  - first:
+      213: 580901428013002809
+    second: town_buildings_4
+  - first:
+      213: -6889465978242419928
+    second: town_buildings_5
+  - first:
+      213: -7700731548062165752
+    second: town_buildings_6
+  - first:
+      213: 7120799204281879183
+    second: town_buildings_7
+  - first:
+      213: 2479924490679457256
+    second: town_buildings_8
+  - first:
+      213: 5512676030295055990
+    second: town_buildings_9
+  - first:
+      213: 1869189118499630089
+    second: town_buildings_10
+  - first:
+      213: -2173896430221994343
+    second: town_buildings_11
+  - first:
+      213: 4498455685949685325
+    second: town_buildings_12
+  - first:
+      213: 6977537188768175111
+    second: town_buildings_13
+  - first:
+      213: 3508646245458824699
+    second: town_buildings_14
+  - first:
+      213: 22782419646783676
+    second: town_buildings_15
+  - first:
+      213: 7128519696608907603
+    second: town_buildings_16
+  - first:
+      213: 3668110862875761283
+    second: town_buildings_17
+  - first:
+      213: -3210252484215072825
+    second: town_buildings_18
+  - first:
+      213: -6368341157155099563
+    second: town_buildings_19
+  - first:
+      213: -1296380200599853865
+    second: town_buildings_20
+  - first:
+      213: -9062945346097380905
+    second: town_buildings_21
+  - first:
+      213: 7677974416437560136
+    second: town_buildings_22
+  - first:
+      213: 2021403734999639423
+    second: town_buildings_23
+  - first:
+      213: 3179484163281338541
+    second: town_buildings_24
+  - first:
+      213: -6452734212250788268
+    second: town_buildings_25
+  - first:
+      213: -4484520383388293396
+    second: town_buildings_26
+  - first:
+      213: -8532612130868833721
+    second: town_buildings_27
+  - first:
+      213: -1528468754518932375
+    second: town_buildings_28
+  - first:
+      213: 167162644422644320
+    second: town_buildings_29
+  - first:
+      213: 4449604022472517578
+    second: town_buildings_30
+  - first:
+      213: -6755642119513842083
+    second: town_buildings_31
+  - first:
+      213: 3529346520922306907
+    second: town_buildings_32
+  - first:
+      213: 4973494235740440996
+    second: town_buildings_33
+  - first:
+      213: 8369514416074275878
+    second: town_buildings_34
+  - first:
+      213: -4437334822549816650
+    second: town_buildings_35
+  - first:
+      213: -4704627447428648186
+    second: town_buildings_36
+  - first:
+      213: -5738698210422043746
+    second: town_buildings_37
+  - first:
+      213: 1976474120545773669
+    second: town_buildings_38
+  - first:
+      213: -2211863786992722917
+    second: town_buildings_39
+  - first:
+      213: 5807440915859139834
+    second: town_buildings_40
+  - first:
+      213: 7957803304835020742
+    second: town_buildings_41
+  - first:
+      213: -5251065769275771154
+    second: town_buildings_42
+  - first:
+      213: 4402089498140406705
+    second: town_buildings_43
+  - first:
+      213: 43302747812487166
+    second: town_buildings_44
+  - first:
+      213: -9036481034145959412
+    second: town_buildings_45
+  - first:
+      213: 5742112204228492264
+    second: town_buildings_46
+  - first:
+      213: 2911530479103566829
+    second: town_buildings_47
+  - first:
+      213: 3762369173003520469
+    second: town_buildings_48
+  - first:
+      213: 514851721999427975
+    second: town_buildings_49
+  - first:
+      213: 3119691761927882269
+    second: town_buildings_50
+  - first:
+      213: -747296758486629904
+    second: town_buildings_51
+  - first:
+      213: 4827455392130920982
+    second: town_buildings_52
+  - first:
+      213: 848066233861381480
+    second: town_buildings_53
+  - first:
+      213: 1948587914297282960
+    second: town_buildings_54
+  - first:
+      213: -510355856329997705
+    second: town_buildings_55
+  - first:
+      213: 5626722846590886467
+    second: town_buildings_56
+  - first:
+      213: 7615910693323087338
+    second: town_buildings_57
+  - first:
+      213: -7947429645887510127
+    second: town_buildings_58
+  - first:
+      213: 4767588153703217454
+    second: town_buildings_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: town_buildings_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0ec3b32bc53e6c0800000000000000
+      internalID: -4115343713918721842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebcb58eeff71b000800000000000000
+      internalID: 49961803674536939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9645d58899796fcd0800000000000000
+      internalID: -2524663855420976023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d7c0b3be7867c50800000000000000
+      internalID: 6662662143118966103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9307b3265c6cf0800800000000000000
+      internalID: 580901428013002809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823b8bad133b360a0800000000000000
+      internalID: -6889465978242419928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8055c1f0571812590800000000000000
+      internalID: -7700731548062165752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a0b10162922d260800000000000000
+      internalID: 7120799204281879183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e59db06f267a6220800000000000000
+      internalID: 2479924490679457256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e1c8364a5f08c40800000000000000
+      internalID: 5512676030295055990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c22329991b0f910800000000000000
+      internalID: 1869189118499630089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996d02ae6b4c4d1e0800000000000000
+      internalID: -2173896430221994343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4efddecc99bd6e30800000000000000
+      internalID: 4498455685949685325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704da97ca1135d060800000000000000
+      internalID: 6977537188768175111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdc41fab2731b030800000000000000
+      internalID: 3508646245458824699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0ab2e6d70f05000800000000000000
+      internalID: 22782419646783676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351dfb245e69de260800000000000000
+      internalID: 7128519696608907603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a1672356fb7e230800000000000000
+      internalID: 3668110862875761283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c79b0fcf54e273d0800000000000000
+      internalID: -3210252484215072825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c254f557b1f97a0800000000000000
+      internalID: -6368341157155099563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d465697315520ee0800000000000000
+      internalID: -1296380200599853865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1061ba933f93280800000000000000
+      internalID: -9062945346097380905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8434c465d05ad8a60800000000000000
+      internalID: 7677974416437560136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f752d44bcf77d0c10800000000000000
+      internalID: 2021403734999639423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da04d59300ccf1c20800000000000000
+      internalID: 3179484163281338541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e18c80c684376a0800000000000000
+      internalID: -6452734212250788268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce66428a878c3c1c0800000000000000
+      internalID: -4484520383388293396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742df558972169980800000000000000
+      internalID: -8532612130868833721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9648d9414c9c9cae0800000000000000
+      internalID: -1528468754518932375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062d6881a81e15200800000000000000
+      internalID: 167162644422644320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7af9e884b20cd30800000000000000
+      internalID: 4449604022472517578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ed5b409432f32a0800000000000000
+      internalID: -6755642119513842083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59b5d426f1caf030800000000000000
+      internalID: 3529346520922306907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a903cd18a6650540800000000000000
+      internalID: 4973494235740440996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c3e90940d762470800000000000000
+      internalID: 8369514416074275878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba72782d7b6b62c0800000000000000
+      internalID: -4437334822549816650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6037673434ec5beb0800000000000000
+      internalID: -4704627447428648186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bcf9ee16c0c50b0800000000000000
+      internalID: -5738698210422043746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56822e6adb8dd6b10800000000000000
+      internalID: 1976474120545773669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c9fbcca91ed41e0800000000000000
+      internalID: -2211863786992722917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc6adb6ebc289050800000000000000
+      internalID: 5807440915859139834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7fe1981fbcf6e60800000000000000
+      internalID: 7957803304835020742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6ba1211877027b0800000000000000
+      internalID: -5251065769275771154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3f226431d571d30800000000000000
+      internalID: 4402089498140406705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff5925ae97d99000800000000000000
+      internalID: 43302747812487166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02fc247068f79280800000000000000
+      internalID: -9036481034145959412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb797170a410bf40800000000000000
+      internalID: 5742112204228492264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3e0b77b85d76820800000000000000
+      internalID: 2911530479103566829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d941c634de963430800000000000000
+      internalID: 3762369173003520469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78926c1d9ee152700800000000000000
+      internalID: 514851721999427975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d168c6ee02f5b4b20800000000000000
+      internalID: 3119691761927882269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f18a98be8111a5f0800000000000000
+      internalID: -747296758486629904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612f1092a119ef240800000000000000
+      internalID: 4827455392130920982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d9f471fbfe4cb00800000000000000
+      internalID: 848066233861381480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0911f4d4266ca0b10800000000000000
+      internalID: 1948587914297282960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772096a7d0adae8f0800000000000000
+      internalID: -510355856329997705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342ef980e92261e40800000000000000
+      internalID: 5626722846590886467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed1f9cbc6621b960800000000000000
+      internalID: 7615910693323087338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199677728de05b190800000000000000
+      internalID: -7947429645887510127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: town_buildings_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2937d08a20e92240800000000000000
+      internalID: 4767588153703217454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
