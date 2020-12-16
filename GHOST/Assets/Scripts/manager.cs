@@ -31,23 +31,24 @@ public class manager : MonoBehaviour
         foreach (GameObject obj in objects)
         {
             float dist = (obj.transform.position - player.transform.position).magnitude;
+            //float dist = Mathf.Pow(obj.transform.position.x - player.transform.position.x, 2) + Mathf.Pow(obj.transform.position.y - player.transform.position.y, 2);
             if (obj == possessed)
             {
                 Color trans = obj.GetComponent<SpriteRenderer>().color;
                 trans.a = 0.5f;
-                obj.GetComponent<SpriteRenderer>().color = trans;
+                obj.GetComponentInChildren<SpriteRenderer>().color = trans;
 
             }
 
             else if (obj == objects[0] && dist < possess_dist && !is_possessing)
             {
-                obj.GetComponent<SpriteRenderer>().color = Color.red;
+                obj.GetComponentInChildren<SpriteRenderer>().color = Color.red;
             }
 
 
             else
             {
-                obj.GetComponent<SpriteRenderer>().color = Color.white;
+                obj.GetComponentInChildren<SpriteRenderer>().color = Color.white;
             }
         }
 
@@ -80,7 +81,7 @@ public class manager : MonoBehaviour
 
         if (!b)
         {
-            Vector3 new_player_pos = possessed.transform.position * .9f;
+            Vector3 new_player_pos = possessed.transform.position/* * .9f*/;
             new_player_pos.z = -4.6f;
             player.transform.position = new_player_pos;
         }
