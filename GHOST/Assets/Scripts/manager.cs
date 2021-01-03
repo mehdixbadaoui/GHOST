@@ -37,6 +37,11 @@ public class manager : MonoBehaviour
                 Color trans = obj.GetComponent<SpriteRenderer>().color;
                 trans.a = 0.5f;
                 obj.GetComponentInChildren<SpriteRenderer>().color = trans;
+                foreach (Transform child in obj.transform)
+                {
+                    child.gameObject.GetComponent<SpriteRenderer>().color = trans;
+                }
+
 
             }
 
