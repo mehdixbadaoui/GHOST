@@ -11,6 +11,7 @@ public class manager : MonoBehaviour
 
     public float possess_dist;
     private bool is_possessing;
+
     // Start is called before the first frame update
     void Start()
     {

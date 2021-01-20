@@ -7,6 +7,7 @@ public class Menu : MonoBehaviour
 {
     public void Awake()
     {
+        Cursor.visible = true;
         // Switch to 640 x 480 full-screen
         Screen.SetResolution(640, 480, false);
     }
@@ -14,6 +15,7 @@ public class Menu : MonoBehaviour
     public void StartGame()
     {
         SceneManager.LoadScene("Room1");
+        Cursor.visible = false;
     }
 
     public void ResolutionOne()
