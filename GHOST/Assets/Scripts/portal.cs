@@ -8,7 +8,7 @@ public class portal : MonoBehaviour
     [Range(0.01f, 2f)]
     public float d;
 
-    //public Animator transistion;
+    public Animator transistion;
     void Update()
     {
         if((player.position - transform.position).magnitude < d)
@@ -26,9 +26,9 @@ public class portal : MonoBehaviour
 
     IEnumerator Load(int index)
     {
-        //transistion.SetTrigger("start");
+        transistion.SetTrigger("start");
 
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(0);
 
         SceneManager.LoadScene(index);
     }
