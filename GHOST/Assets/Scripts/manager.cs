@@ -30,7 +30,7 @@ public class manager : MonoBehaviour
         //Debug.Log($"name :{objects[0]} dist: {closest_dist}");
         foreach (GameObject obj in objects)
         {
-            float dist = (obj.transform.position - player.transform.position).magnitude;
+            float dist = ((Vector2) obj.transform.position - (Vector2) player.transform.position).magnitude;
             //float dist = Mathf.Pow(obj.transform.position.x - player.transform.position.x, 2) + Mathf.Pow(obj.transform.position.y - player.transform.position.y, 2);
             if (obj == possessed)
             {
