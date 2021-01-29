@@ -26,12 +26,11 @@ public class manager : MonoBehaviour
         objects = objects.OrderBy(o => (o.transform.position - player.transform.position).magnitude).ToList();
         //GameObject closest = objects[0];
         //closest.GetComponent<SpriteRenderer>().color = Color.red;
-        float closest_dist = (objects[0].transform.position - player.transform.position).magnitude;
+        float closest_dist = ((Vector2) objects[0].transform.position - (Vector2) player.transform.position).magnitude;
         //Debug.Log($"name :{objects[0]} dist: {closest_dist}");
         foreach (GameObject obj in objects)
         {
             float dist = ((Vector2) obj.transform.position - (Vector2) player.transform.position).magnitude;
-            //float dist = Mathf.Pow(obj.transform.position.x - player.transform.position.x, 2) + Mathf.Pow(obj.transform.position.y - player.transform.position.y, 2);
             if (obj == possessed)
             {
                 Color trans = obj.GetComponent<SpriteRenderer>().color;

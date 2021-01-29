@@ -280,7 +280,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 199145821}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 15.978001, y: 2.176, z: 0}
+  m_LocalPosition: {x: 15.81, y: 2.176, z: 0}
   m_LocalScale: {x: 1.3120213, y: 1.1657612, z: 1}
   m_Children: []
   m_Father: {fileID: 2130437169}
@@ -4202,6 +4202,12 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &394233752 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1383989316327430533, guid: 4439d88ce125b0f46a376dab36d8f58d,
+    type: 3}
+  m_PrefabInstance: {fileID: 1572242120830976674}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &439205102
 GameObject:
   m_ObjectHideFlags: 0
@@ -7621,7 +7627,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1383687769}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.31199932, y: 5.346, z: 0}
+  m_LocalPosition: {x: -0.17, y: 5.346, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2130437169}
@@ -8270,6 +8276,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 1204170622}
   d: 1.7
+  transistion: {fileID: 0}
 --- !u!4 &1751469268
 Transform:
   m_ObjectHideFlags: 0
@@ -8553,7 +8560,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2055918128}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.28, y: 0, z: 0}
   m_LocalScale: {x: 1.624042, y: 1.2145147, z: 1}
   m_Children:
   - {fileID: 1205247647}
@@ -9009,10 +9016,20 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1204170622}
+    - target: {fileID: 4170554765947316444, guid: 4439d88ce125b0f46a376dab36d8f58d,
+        type: 3}
+      propertyPath: transistion
+      value: 
+      objectReference: {fileID: 394233752}
     - target: {fileID: 5899250689787018940, guid: 4439d88ce125b0f46a376dab36d8f58d,
         type: 3}
       propertyPath: m_Alpha
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7525534718763103968, guid: 4439d88ce125b0f46a376dab36d8f58d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4439d88ce125b0f46a376dab36d8f58d, type: 3}
