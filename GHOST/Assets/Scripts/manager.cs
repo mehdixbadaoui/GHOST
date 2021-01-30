@@ -91,13 +91,13 @@ public class manager : MonoBehaviour
     {
         is_possessing = b;
         player.GetComponent<Movement>().enabled = !b;
-        possessed.GetComponent<Movement>().enabled = b;
+        if(possessed.GetComponent<Movement>()) possessed.GetComponent<Movement>().enabled = b;
         player.GetComponentInChildren<SpriteRenderer>().enabled = !b;
 
         if (!b)
         {
             Vector3 new_player_pos = possessed.transform.position;
-            new_player_pos.z = -4.6f;
+            //new_player_pos.z = -4.6f;
             player.transform.position = new_player_pos;
         }
         
