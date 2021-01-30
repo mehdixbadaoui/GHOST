@@ -92,6 +92,7 @@ public class manager : MonoBehaviour
         is_possessing = b;
         player.GetComponent<Movement>().enabled = !b;
         if(possessed.GetComponent<Movement>()) possessed.GetComponent<Movement>().enabled = b;
+        else if(possessed.GetComponent<wall_mvt>()) possessed.GetComponent<wall_mvt>().enabled = b;
         player.GetComponentInChildren<SpriteRenderer>().enabled = !b;
 
         if (!b)

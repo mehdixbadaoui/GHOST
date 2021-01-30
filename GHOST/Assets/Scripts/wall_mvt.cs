@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class sword_mvt : MonoBehaviour
+public class wall_mvt : MonoBehaviour
 {
-    public float speed;
+    public float speed = 5f;
     Camera cam;
 
     void Update()
