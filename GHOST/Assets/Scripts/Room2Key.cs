@@ -4,33 +4,36 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-
-public class Room3Key : MonoBehaviour
+public class Room2Key : MonoBehaviour
 {
     public GameObject door;
     public GameObject text;
     GameObject player;
     public GameObject exit;
-    public float distance = 2f;
-    private bool locked;
+    public float unlock_distance = 2f;
+    public float text_distance = 2f;
+    public bool locked;
     public Animator transistion;
+    private Vector3 initialpos;
 
-
-    Vector3 initialpos;
-
-    private void Start()
+    // Start is called before the first frame update
+    void Start()
     {
         locked = true;
-        initialpos = door.transform.position;
+        initialpos = transform.position;
         player = GameObject.FindGameObjectWithTag("player");
         text.SetActive(false);
+
     }
+
     // Update is called once per frame
     void Update()
     {
-        if (transform.position.x > -4.35) 
-            unlock();
-        if (Vector2.Distance(player.transform.position, exit.transform.position) < distance && !locked)
+        if (Vector2.Distance(initialpos, transform.position) > unlock_distance)
+            locked = false;
+        else locked = true;
+
+        if (Vector2.Distance(player.transform.position, initialpos) < text_distance && !locked)
         {
             text.SetActive(true);
             if (Input.GetKey(KeyCode.E))
@@ -40,12 +43,7 @@ public class Room3Key : MonoBehaviour
         }
         else
             text.SetActive(false);
-    }
 
-    private void unlock()
-    {
-        locked = false;
-        door.transform.position = Vector2.MoveTowards(door.transform.position, initialpos - new Vector3(1, 0, 0), 5 * Time.deltaTime);
     }
 
     IEnumerator Load(int index)

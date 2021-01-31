@@ -18,12 +18,6 @@ public class portal : MonoBehaviour
         }
     }
 
-    public void loadLevel()
-    {
-        
-
-    }
-
     IEnumerator Load(int index)
     {
         transistion.SetTrigger("start");
