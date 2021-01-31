@@ -97,9 +97,9 @@ public class manager : MonoBehaviour
 
         if (!b)
         {
-            //Vector3 new_player_pos = possessed.transform.position;
-            //new_player_pos.z = -4.6f;
-            player.transform.position = possessed.transform.position;
+            Vector3 new_player_pos = possessed.transform.position;
+            new_player_pos.z = -10;
+            player.transform.position = new_player_pos;
         }
         
     }

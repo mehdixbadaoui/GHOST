@@ -20,8 +20,6 @@ public class Room3Key : MonoBehaviour
 
     private void unlock()
     {
-        
-        //door.transform.position = Vector3.Lerp(initialpos, initialpos - new Vector3(1, 0, 0), 100f);
         door.transform.position = Vector2.MoveTowards(door.transform.position, initialpos - new Vector3(1, 0, 0), 5 * Time.deltaTime);
     }
 }
