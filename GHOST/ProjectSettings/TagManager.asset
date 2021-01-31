@@ -6,6 +6,7 @@ TagManager:
   tags:
   - movable
   - player
+  - exit text
   layers:
   - Default
   - TransparentFX
