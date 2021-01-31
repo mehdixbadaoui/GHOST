@@ -3,37 +3,37 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-
-public class Room2Key : MonoBehaviour
+public class Room4Key : MonoBehaviour
 {
-    public GameObject door;
+    public GameObject table;
+    public GameObject player;
     public GameObject text;
-    GameObject player;
-    public GameObject exit;
+    public GameObject manager;
+    public GameObject hole;
+
+    public bool locked;
     public float unlock_distance = 2f;
     public float text_distance = 2f;
-    public bool locked;
-    public Animator transistion;
-    private Vector3 initialpos;
 
     // Start is called before the first frame update
     void Start()
     {
         locked = true;
-        initialpos = transform.position;
         player = GameObject.FindGameObjectWithTag("player");
-        text.SetActive(false);
-
+        hole.SetActive(false);
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Vector2.Distance(initialpos, transform.position) > unlock_distance)
+        if (Vector2.Distance(transform.position, table.transform.position) < unlock_distance && !manager.GetComponent<manager>().is_possessing)
+        {
             locked = false;
-        else locked = true; 
+            StartCoroutine(floorCrash());
+        }
+        else locked = true;
 
-        if (Vector2.Distance(player.transform.position, initialpos) < text_distance && !locked)
+        if (Vector2.Distance(player.transform.position, transform.position) < text_distance && !locked)
         {
             text.SetActive(true);
             if (Input.GetKey(KeyCode.E))
@@ -46,6 +46,14 @@ public class Room2Key : MonoBehaviour
 
     }
 
+    IEnumerator floorCrash()
+    {
+        yield return new WaitForSeconds(0.5f);
+        hole.SetActive(true);
+        yield return new WaitForSeconds(0.5f);
+        table.SetActive(false);
+
+    }
     IEnumerator Load(int index)
     {
         yield return new WaitForSeconds(0);

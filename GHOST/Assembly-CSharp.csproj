@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\Room2Key.cs" />
     <Compile Include="Assets\Scripts\Room3Key.cs" />
+    <Compile Include="Assets\Scripts\Room4Key.cs" />
     <Compile Include="Assets\Scripts\manager.cs" />
     <Compile Include="Assets\Scripts\portal.cs" />
     <Compile Include="Assets\Scripts\wall_mvt.cs" />

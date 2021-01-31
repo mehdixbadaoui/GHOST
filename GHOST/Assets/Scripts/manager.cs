@@ -10,7 +10,7 @@ public class manager : MonoBehaviour
     public GameObject possessed;
 
     public float possess_dist;
-    private bool is_possessing;
+    public bool is_possessing;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,7 +23,7 @@ public class manager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        objects = objects.OrderBy(o => (o.transform.position - player.transform.position).magnitude).ToList();
+        objects = objects.OrderBy(o => ((Vector2) o.transform.position - (Vector2) player.transform.position).magnitude).ToList();
         //GameObject closest = objects[0];
         //closest.GetComponent<SpriteRenderer>().color = Color.red;
         float closest_dist = ((Vector2) objects[0].transform.position - (Vector2) player.transform.position).magnitude;
