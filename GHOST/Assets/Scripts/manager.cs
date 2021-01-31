@@ -69,7 +69,7 @@ public class manager : MonoBehaviour
 
         if (Input.GetKeyDown("space"))
         {
-            float d = (objects[0].transform.position - player.transform.position).magnitude;
+            float d = ((Vector2) objects[0].transform.position - (Vector2) player.transform.position).magnitude;
             if (possessed)
             {
                 possess(false);
@@ -97,9 +97,9 @@ public class manager : MonoBehaviour
 
         if (!b)
         {
-            Vector3 new_player_pos = possessed.transform.position;
+            //Vector3 new_player_pos = possessed.transform.position;
             //new_player_pos.z = -4.6f;
-            player.transform.position = new_player_pos;
+            player.transform.position = possessed.transform.position;
         }
         
     }
